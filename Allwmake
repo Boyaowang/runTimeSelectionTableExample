@@ -1,0 +1,13 @@
+#!/bin/bash
+
+pushd boyaoClass3
+wmake
+popd
+
+pushd boyaoAddRunTime
+wmake
+popd
+
+pushd boyaoFoam2
+wmake
+popd

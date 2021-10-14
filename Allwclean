@@ -1,0 +1,13 @@
+#!/bin/bash
+
+pushd boyaoClass3
+wclean
+popd
+
+pushd boyaoAddRunTime
+wclean
+popd
+
+pushd boyaoFoam2
+wclean
+popd
